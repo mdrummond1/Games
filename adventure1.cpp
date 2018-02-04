@@ -70,4 +70,5 @@ int main()
     else{
         cout << "\nOh dear! You're dead. And they kidnapped the princess.";
     }
+    return 0;
 }

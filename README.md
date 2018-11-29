@@ -1,2 +1,2 @@
 # Games
-For simple games that I've created.
+For simple game-related programs that I've built.
